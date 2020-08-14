@@ -32,5 +32,13 @@ git pull origin master
 - When you are done with your edits, you need to push to the head of your branch. 
 
     ``` bash
-    git push 
+    git push origin <branch name>
     ```
+
+- In our example this would be 
+
+    ``` bash
+    git push origin modifying_readme
+    ```
+
+- Then you need to go into the gitHub GUI ( Graphical User Interface ) and make a pull request. DO NOT APPROVE THE PULL REQUEST YOURSELF!!!
