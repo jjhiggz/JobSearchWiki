@@ -34,3 +34,5 @@ git pull origin master
     ``` bash
     git push 
     ```
+
+- Then you need to go into 
